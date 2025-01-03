@@ -4,5 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+colored = "2.0"
+prettytable-rs = "0.10"
 tokio = { version = "1.0", features = ["full"] }
 zapdb = "1.0.4"
