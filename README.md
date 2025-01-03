@@ -55,4 +55,4 @@ Start the CLI by running `zapdb-cli`. You'll be greeted with an interactive shel
 
 ## License
 
-This project is distributed under the GNU GPL V3 
+Project shared under the [GNU GPL V3 License](LICENSE).
