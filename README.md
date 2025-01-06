@@ -4,10 +4,10 @@ A shell for interacting with ZapDB, a simple in-memory database. This `shell` al
 
 ## Installation
 
-2. Clone this repository
-3. Run `cargo build --release`
-4. The get the ninary in `target/release/zapdb-cli`
-//TODO: install via crate
+
+1. Install with `cargo install zapdb-cli`
+2. Run with `zapdb-cli`
+
 ## Usage
 
 Start the CLI by running `zapdb-cli`. You'll be greeted with an interactive shell:
@@ -49,7 +49,7 @@ Start the CLI by running `zapdb-cli`. You'll be greeted with an interactive shel
 ## Dependencies
 
 - colored (2.0) - For cooooolors
-- prettytable-rs (0.10) - For the goofy table lookin ahh select
+- prettytable-rs (0.10) - For the goofy table lookin ahh select query
 - tokio (1.0) - Because async you know?
 - zapdb (1.0.4) - The underlying database
 

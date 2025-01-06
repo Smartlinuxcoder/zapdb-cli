@@ -1,7 +1,15 @@
 [package]
 name = "zapdb-cli"
-version = "0.1.0"
+authors = ["Smartlinuxcoder"]
+version = "1.0.0"
 edition = "2021"
+description = "Zapdb shell interface"
+readme = "README.md"
+repository = "https://github.com/Smartlinuxcoder/zapdb-cli"
+license-file = "LICENSE"
+keywords = ["database", "db", "in-memory", "zapdb"]
+
+
 
 [dependencies]
 colored = "2.0"
